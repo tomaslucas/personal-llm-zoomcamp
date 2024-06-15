@@ -1,0 +1,10 @@
+tdqm
+notebook==7.1.2
+jupyterlab
+openai
+elasticsearch
+scikit-learn
+pandas
+polars
+requests
+python-docx
